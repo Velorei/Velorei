@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715E7&center=true&width=500&height=63&lines=+Hello+there%2C+I'm+Valeriia+%F0%9F%91%8B+;Welcome+to+my+little+space;+I'm+a+devilishly+hard-working+QA+Engineer+;And+here's+what+I'm+learning%3A;+Check+lists%2C+Bug+reports%2C+Test+cases;HTML%2C+CSS%2C+Python;Terminal%2C+PyCharm+CE%2C+VS+Code;Web%2C+Mobile%2C+Game+testing;I+keep+learning+and+improving+myself;Laptop%2C+Sport+and+Nutella+-+what+I+need)](https://git.io/typing-svg)
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/valeriia-dudenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -14,6 +12,8 @@
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715E7&center=true&width=500&height=63&lines=+Hello+there%2C+I'm+Valeriia+%F0%9F%91%8B+;Welcome+to+my+little+space;+I'm+a+devilishly+hard-working+QA+Engineer+;And+here's+what+I'm+learning%3A;+Check+lists%2C+Bug+reports%2C+Test+cases;HTML%2C+CSS%2C+Python;Terminal%2C+PyCharm+CE%2C+VS+Code;Web%2C+Mobile%2C+Game+testing;I+keep+learning+and+improving+myself;Laptop%2C+Sport+and+Nutella+-+what+I+need)](https://git.io/typing-svg)
 <hr>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
