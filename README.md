@@ -14,7 +14,7 @@
 </div>
 
 <div id="badges" align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F715E7&center=true&width=500&height=63&lines=+Hello+there%2C+I'm+Valeriia+%F0%9F%91%8B+;Welcome+to+my+little+space;+I'm+a+devilishly+hard-working+QA+Engineer+;And+here's+what+I'm+learning%3A;+Check+lists%2C+Bug+reports%2C+Test+cases;HTML%2C+CSS%2C+Python;Terminal%2C+PyCharm+CE%2C+VS+Code;Web%2C+Mobile%2C+Game+testing;I+keep+learning+and+improving+myself;Laptop%2C+Sport+and+Nutella+-+what+I+need)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=021471&center=true&width=900&height=200&lines=Hello+and+welcome+to+my+GitHub+page!;I'm+dedicated+to+ensuring+the+quality+and+reliability+of+software+products;I'm+excited+to+share+my+work+with+you+and+invite+you+to+explore+my+projects;If+you+have+any+questions+about+my+testing+process++;or+would+like+to+learn+more+about+my+approach+to+quality+assurance%2C;please+don't+hesitate+to+reach+out;+I'm+always+open+to+feedback+and+suggestions+for+improvement;Thank+you+for+visiting+my+page+and+;for+your+interest+in+quality+assurance;Let's+work+to+create+software+products;that+meet+the+highest+standards+of+quality+and+exceed+expectations;Best+regards%2C+Velorei." alt="Typing SVG" /></a>
 <hr>
 </div>
 
