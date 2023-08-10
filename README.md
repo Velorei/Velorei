@@ -13,5 +13,3 @@
   </a>
 </div>
 
-
-![](https://komarev.com/ghpvc/?username=Velorei)
